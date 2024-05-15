@@ -1,0 +1,63 @@
+body{
+	background-color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font : 95% "Trebuchet MS", verdana, arial, sans-serif;
+}
+.bar{
+	background-color: white;
+	padding-left: 2rem;
+	padding: 5px;
+	margin-top: 5%;
+	box-shadow: 7px 5px 5px gray;
+}
+
+.login-pane{
+	margin-top: 5rem;
+	box-shadow: 1px 2px 2px 2px gray;
+	width: 35%;
+}
+.footer{
+	position: fixed;
+  	bottom: 0;
+  	left: 0;
+  	width: 100%;
+	text-align: center;
+	color: white;
+}
+.outline-success{
+	border: solid thin darkseagreen;
+}
+.text-white{
+	clear: white;
+}
+.bg-icon{
+	font-size: 35pt;
+	padding: 5px;
+}
+.counter{
+	font-size: 25pt;
+}
+.view-details{
+	background-color: whitesmoke;
+	height: 1.5rem;
+}
+.tab-bottom{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 2px;
+}
+.bg-muted{
+	background-color: #eeeeee;
+	border: none;
+}
+.fl{
+	height: 2.5rem;
+}
+.bg-primary-custom{
+    background: darkblue;
+    color: aliceblue;
+}
+.bg-primary-custom1{
+    background: rgb(104, 179, 204);
+}
